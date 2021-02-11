@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+}
+
+h3{
+  color:rgb(126, 126, 126);
+}
+
+.bracketDisplayContainer{
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.bracketMatches{
+  width: 900px;
+  display: flex;
+  flex-direction: row;
+}
+
+.all_round_2{
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.all_round_3{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.round{
+  height: 150px;
+  width: 175px;
+  padding-top: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.round1{
+  color: white;
+  height: 150px;
+  width: 175px;
+  padding-top: 10px;
+  margin: 10px;
+  background-color: #0e1833;
+}
+
+.round2{
+  color: white;
+  height: 150px;
+  width: 175px;
+  padding-top: 10px;
+  margin: 10px;
+  background-color: #1b1638;
+
+}
+
+.round3{
+  color: white;
+  height: 150px;
+  width: 175px;
+  padding-top: 10px;
+  margin: 10px;
+  background-color: goldenrod;
+}
